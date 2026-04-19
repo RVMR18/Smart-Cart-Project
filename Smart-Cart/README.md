@@ -66,22 +66,6 @@ SmartCart follows a client-server architecture:
 
 ---
 
-## ⚙️ Setup Instructions
-
-### Clone the repository
-git clone https://github.com/your-username/SmartCart.git
-
-### Open project folder
-cd SmartCart
-
-### Install dependencies
-npm install
-
-### Run server
-node server.js
-
-### Open in browser
-http://localhost:3000
 
 ---
 
